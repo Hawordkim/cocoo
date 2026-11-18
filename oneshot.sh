@@ -2,7 +2,7 @@
 #
 # Mindglow "Quick Setup WordPress on Ubuntu" AMI용으로 수정
 # WordPress DB를 로컬에서 AWS RDS로 마이그레이션하는 스크립트
-# 사용법: ./oneshot.sh <로컬DB_root비밀번호> <RDS_admin비밀번호> <RDS_엔드포인트>
+# 사용법: ./oneshot.sh <RDS_admin비밀번호> <RDS_엔드포인트>
 #
 
 # ===== 경로 설정 =====
